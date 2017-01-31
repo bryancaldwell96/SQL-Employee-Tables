@@ -1,2 +1,2 @@
 # SQL-Employee-Tables
-Final project for my SQL class. Creates tables in the database, inserts 2 records to the database, sets up foriegn key constraints, joins tables. The first record is displayed. Also creates a stored procedure that displays both the first and second records.
+Final project for my SQL class. Creates tables in the database, inserts 2 records to the database, sets up foriegn key constraints, joins tables. Information that is stored includes any phone numbers the employee might have, their marital status, their gender, and the department their work in. The first record is displayed. Also creates a stored procedure that displays both the first and second records.
